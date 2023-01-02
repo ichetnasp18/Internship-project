@@ -84,6 +84,32 @@ table>	It defines a table.
   but id should always be unique.
 
 
+
+22/12/2022 : CSS Selectors
+To apply CSS to an element you need to select it. CSS provides you with a number of different ways to do this
+
+descedent selector
+
+
+
+26/12/22==> 
+
+==>CSS Box Model
+ * The CSS box model looks at all HTML elements as boxes. 
+ * Content-->Padding-->Border-->Margin
+ *  If i want to set margin . there is a short hand property 
+ margin: 4px 5px 10px 20px
+          T   R    B   L (move like watch)
+
+ margin: 4px 5px         
+         TB ,LR
+margin : 5px(All) 
+
+==>How to set borders
+* border:3px dashed red (short hand property)
+* border-radius
+*margin collapse- When two margins from different elements overlap , the equivalent margin is greater of two
+
   </pre>
 
   

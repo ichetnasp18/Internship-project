@@ -1,0 +1,38 @@
+/* Element Selector */
+
+*{
+    box-sizing: border-box;
+}
+p{
+    color: red;
+}
+/* Id Selector */
+#chetna{
+    color:rgba(235, 39, 72, 0.557);
+}
+/* Class Selector */
+.element{
+    color: #a7a71e;
+}
+.bgblue{
+    background-color: aqua;
+}
+/* Grouping Selector */
+footer , span {
+    background-color: yellowgreen;
+}
+
+.new{
+    background-color: burlywood;
+    color: aquamarine;
+    font-weight: bold;
+    text-align: center;
+}
+
+.styleTry{
+     height: 50px;
+    border:10px solid red;
+    width: 40px;
+    padding: 100px;
+    margin: 50px;
+}
